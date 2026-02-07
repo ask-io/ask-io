@@ -16,12 +16,12 @@
 
 ### 📊 Performance Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ask-io&show_icons=true&theme=radical" alt="ask-io stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ask-io&layout=compact&theme=radical" alt="ask-io languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ask-io&show_icons=true&theme=radical" alt="Abhijit's stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ask-io&layout=compact&theme=radical" alt="Abhijit's languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ask-io&theme=radical" alt="ask-io streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ask-io&theme=radical" alt="Abhijit's streak" />
 </div>
 
 ---
