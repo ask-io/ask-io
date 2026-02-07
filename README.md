@@ -1,18 +1,3 @@
-
-<!--
-**ask-io/ask-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 👋 Hello, I'm Abhijit
 
 <div align="center">
@@ -31,8 +16,12 @@ Here are some ideas to get you started:
 
 ### 📊 Performance Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ask-io&show_icons=true&theme=radical" alt="ask-io stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ask-io&layout=compact&theme=radical" alt="ask-io languages" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ask-io&show_icons=true&theme=radical" alt="ask-io stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ask-io&layout=compact&theme=radical" alt="ask-io languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ask-io&theme=radical" alt="ask-io streak" />
 </div>
 
 ---
@@ -40,10 +29,9 @@ Here are some ideas to get you started:
 ### 🔭 Current Focus
 - 🐍 **Python:** Automating workflows and developing backend logic.
 - ⚙️ **C:** Exploring systems programming and memory optimization.
-- 🌱 Currently learning: Data Structures and Algorithms.
+- 🌱 **Learning:** Data Structures and Algorithms.
 
 ---
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ask-io&theme=radical" alt="ask-io streak" />
+  <img src="https://komarev.com/ghpvc/?username=ask-io&color=dc3545&style=flat-square&label=PROFILE+VIEWS" alt="ask-io views" />
 </div>
