@@ -1,8 +1,6 @@
 # 👋 Hello, I'm Abhijit
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ask-io/ask-io/output/github-snake.svg" alt="Snake animation" />
-</div>
+![Snake animation](https://raw.githubusercontent.com/ask-io/ask-io/output/github-snake-dark.svg)
 
 ### 🛠 My Tech Stack
 <p align="center">
@@ -15,14 +13,10 @@
 ---
 
 ### 📊 Performance Metrics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ask-io&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ask-io&layout=compact&theme=radical" alt="Top languages" />
-</div>
+![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ask-io&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ask-io&layout=compact&theme=radical)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ask-io&theme=radical" alt="GitHub streak" />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ask-io&theme=radical)
 
 ---
 
@@ -32,6 +26,6 @@
 - 🌱 **Learning:** Data Structures and Algorithms.
 
 ---
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ask-io&color=dc3545&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
-</div>
+</p>
