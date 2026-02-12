@@ -8,7 +8,7 @@
 
 ![Abhijit's Stats](https://github-readme-stats.vercel.app/api?username=ask-io&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ask-io&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ask-io&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ask-io&theme=radical)
 
