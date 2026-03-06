@@ -8,22 +8,18 @@
 
 ### 📊 Performance & Productivity
 
-| GitHub Stats | Top Languages |
-| :--- | :--- |
-| ![Abhijit's Stats](https://github-readme-stats.vercel.app/api?username=ask-io&show_icons=true&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ask-io&layout=compact&theme=radical&hide_border=true) |
+**GitHub Stats** ![Abhijit's Stats](https://github-readme-stats.vercel.app/api?username=ask-io&show_icons=true&theme=radical)
 
-**🔥 Contribution Streak**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ask-io&theme=radical&hide_border=true)
+**Top Languages** ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ask-io&layout=compact&theme=radical)
 
-**📈 Activity Graph**
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ask-io&theme=radical&hide_border=true)
+**🔥 Contribution Streak** ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ask-io&theme=radical)
 
 ---
 
 ### 🔭 Current Focus
 - 🐍 **Python:** Automating workflows and developing backend logic.
 - ⚙️ **C:** Exploring systems programming and memory optimization.
-- 🌱 **Learning:** Data Structures and Algorithms ($O(n \log n)$ is the goal!).
+- 🌱 **Learning:** Data Structures and Algorithms.
 
 ---
 
