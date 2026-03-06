@@ -8,11 +8,11 @@
 
 ### 📊 Performance & Productivity
 
-**GitHub Stats** ![Abhijit's Stats](https://github-readme-stats.vercel.app/api?username=ask-io&show_icons=true&theme=radical)
+**GitHub Stats** <img src="https://github-readme-stats.vercel.app/api?username=ask-io&show_icons=true&theme=radical&cache=1" alt="Abhijit's Stats" />
 
-**Top Languages** ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ask-io&layout=compact&theme=radical)
+**Top Languages** <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ask-io&layout=compact&theme=radical&cache=1" alt="Top Langs" />
 
-**🔥 Contribution Streak** ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ask-io&theme=radical)
+**🔥 Contribution Streak** <img src="https://github-readme-streak-stats.herokuapp.com/?user=ask-io&theme=radical&cache=1" alt="GitHub Streak" />
 
 ---
 
