@@ -6,13 +6,15 @@
 
 ---
 
-### 📊 Performance & Productivity
+### 📊 GitHub Activity & Skills
 
-**GitHub Stats** <img src="https://github-readme-stats.vercel.app/api?username=ask-io&show_icons=true&theme=radical&cache=1" alt="Abhijit's Stats" />
+![Top Langs](https://github-readme-stats-git-master-jstoppa.vercel.app/api/top-langs/?username=ask-io&layout=compact&theme=radical)
 
-**Top Languages** <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ask-io&layout=compact&theme=radical&cache=1" alt="Top Langs" />
-
-**🔥 Contribution Streak** <img src="https://github-readme-streak-stats.herokuapp.com/?user=ask-io&theme=radical&cache=1" alt="GitHub Streak" />
+| Metric | Status |
+| :--- | :--- |
+| 🛠 **Main Stack** | Python, C, Git, Linux |
+| 🏆 **Contributions** | ![GitHub Custom Badge](https://img.shields.io/github/indicators/total-repo-size/ask-io?label=Repo%20Size&style=flat-square&color=dc3545) |
+| ⚡ **Commit Activity** | ![Commits](https://img.shields.io/github/commit-activity/m/ask-io/ask-io?style=flat-square&color=007bff&label=Recent%20Commits) |
 
 ---
 
@@ -23,12 +25,15 @@
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,git,linux,vscode,github,bash&theme=dark" />
+  </a>
 </p>
 
+---
+
+### 📈 Profile Insights
 ![Profile Views](https://komarev.com/ghpvc/?username=ask-io&color=dc3545&style=flat-square&label=PROFILE+VIEWS)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/ask-io/ask-io?style=flat-square&color=28a745&label=Last%20Update)
