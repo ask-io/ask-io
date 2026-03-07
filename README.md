@@ -16,8 +16,13 @@
 ### 🛠 Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,git,linux,vscode,github,bash&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,c,git,linux,vscode,bash,au,threejs&theme=dark" />
   </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Autodesk%20Revit-0696D7?style=for-the-badge&logo=autodeskrevit&logoColor=white" />
+  <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white" />
 </p>
 
 ---
