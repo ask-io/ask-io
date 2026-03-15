@@ -16,7 +16,7 @@
 ### 🛠 Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,linux,vscode,bash&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,c,linux,vscode,bash,html,css&theme=dark" />
   </a>
 </p>
 
