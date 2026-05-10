@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Abhijit
 
-<p align="left">
+<p align="centre">
   <img src="https://raw.githubusercontent.com/ask-io/ask-io/output/github-snake-dark.svg" alt="Snake animation" width="70%"/>
 </p>
 
