@@ -65,7 +65,7 @@ Takes a clash detection matrix Excel file, parses it into priority tiers, and ou
 
 ```
 → Learning   DSA, systems programming in C
-→ Building   next project (TBD)
+→ Building   BunkSafe
 → Open to    interesting problems
 ```
 
