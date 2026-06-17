@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=Abhijit+S+Kunnel.;CS+Student+%7C+India.;I+build+things+that+fix+things." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=Abhijit+S+Kunnel.;CS+Student+%7C+Kerala.;I+build+things+that+fix+things." alt="Typing SVG" />
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 ---
 
-I write Python for automation, C for the low-level stuff, and enough frontend to ship complete tools. Currently studying CS and working through DSA. My first real project came from watching a tedious workflow happen repeatedly, so I automated it.
+I write Python for automation, C for the low-level stuff, and enough frontend to ship complete tools. Born and raised in Dubai, currently studying CS in Kerala. Working through DSA and building tools that fix real problems.
 
 ---
 
