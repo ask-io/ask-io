@@ -20,7 +20,7 @@ I write Python for automation, C for the low-level stuff, and enough frontend to
 
 ## Projects
 
-### [BIM Clash Portal](https://github.com/ask-io/clash-portal) &nbsp;`v1.2.0`
+### [BIM Clash Portal](https://github.com/ask-io/clash-portal) &nbsp;`v1.3.0`
 
 Takes a clash detection matrix Excel file, parses it into priority tiers, and outputs a colour-coded multi-sheet report. Built with FastAPI + vanilla JS. Deployed on Render.
 
