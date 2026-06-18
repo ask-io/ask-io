@@ -14,15 +14,18 @@
 
 ---
 
-I write Python for automation, C for the low-level stuff, and enough frontend to ship complete tools. Born and raised in Dubai, currently studying CS in Kerala. Working through DSA and building tools that fix real problems.
+I write Python for automation, C for low-level systems architecture, and enough frontend to ship complete, responsive web tools. Born and raised in Dubai, currently pursuing Computer Science and Engineering in Kerala. Working through deep DSA patterns and focused on designing robust software that solves practical workflow bottlenecks.
 
 ---
 
 ## Projects
 
-### [BIM Clash Portal](https://github.com/ask-io/clash-portal) &nbsp;`v1.3.0`
+### [BIM Clash Portal](https://github.com/ask-io/clash-portal) &nbsp;[![](https://img.shields.io/github/v/release/ask-io/clash-portal?style=flat-square&color=00D4FF&label=version)](https://github.com/ask-io/clash-portal/releases)
 
-Takes a clash detection matrix Excel file, parses it into priority tiers, and outputs a colour-coded multi-sheet report. Built with FastAPI + vanilla JS. Deployed on Render.
+An automated engineering coordination tool that parses complex BIM clash detection matrix spreadsheets into filtered, color-coded multi-sheet priority reports.
+* **Core Impact:** Overhauled the legacy static 71x71 boundaries with a dynamic matrix edge-detection scanning algorithm to support arbitrary spreadsheet dimensions dynamically.
+* **Robust Error Handling:** Designed a fail-safe async fetch parser block routing targeted backend validation exceptions directly to custom UI status elements.
+* **Tech Stack:** FastAPI, openpyxl (Data-Only formula evaluation tracking), Vanilla JavaScript, HTML/CSS.
 
 [![](https://img.shields.io/badge/clash--portal.onrender.com-live-00D4FF?style=flat-square&logo=render&logoColor=white)](https://clash-portal.onrender.com)
 &nbsp;
@@ -31,20 +34,24 @@ Takes a clash detection matrix Excel file, parses it into priority tiers, and ou
 ---
 
 ## Stack
-
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,c,bash,html,css,linux,vscode,fastapi,git&theme=dark" />
-
+  
+**Languages & Backend Engineering**
 <br/><br/>
+<img src="https://skillicons.dev/icons?i=py,c,fastapi,bash&theme=dark" />
 
+**Frontend UI & Core Development Tools**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,git,linux,vscode&theme=dark" />
+
+**3D Modeling Tools**
+<br/><br/>
 <img src="https://img.shields.io/badge/Autodesk%20Revit-0696D7?style=flat-square&logo=autodeskrevit&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white" />
 
-</div>
-
 ---
+</div>
 
 ## Stats
 
