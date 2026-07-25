@@ -38,7 +38,7 @@ An automated engineering coordination tool that parses complex BIM clash detecti
   
 **Languages & Backend Engineering**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=py,c,fastapi,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,py,c,fastapi,bash&theme=dark" />
 
 **Frontend UI & Core Development Tools**
 <br/><br/>
@@ -71,7 +71,7 @@ An automated engineering coordination tool that parses complex BIM clash detecti
 ## Now
 
 ```
-→ Learning   DSA, systems programming in C
+→ Learning   DSA, Java, systems programming in C
 → Building   BunkSafe
 → Open to    interesting problems
 ```
