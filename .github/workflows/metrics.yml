@@ -22,8 +22,6 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_limit: 8
           plugin_languages_details: percentage
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
 
           # --- style, matched to your terminal theme ---
           config_timezone: Asia/Kolkata
