@@ -1,0 +1,36 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # regenerates every 6 hours
+  workflow_dispatch:         # lets you trigger it manually from the Actions tab
+  push:
+    branches: [ main ]
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # --- what to show ---
+          base: header, activity, community, repositories, metadata
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+
+          # --- style, matched to your terminal theme ---
+          config_timezone: Asia/Kolkata
+          template: classic
+          config_display: large
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # --- commit target: same "output" branch your snake already uses ---
+          committer_branch: output
