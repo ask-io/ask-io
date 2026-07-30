@@ -2,22 +2,26 @@
 
 # Hi, I'm Abhijit S Kunnel 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=Building+software+that+eliminates+repetitive+work;Python+%7C+C+%7C+Java+%7C+JavaScript;Backend+Development+%E2%80%A2+Automation+%E2%80%A2+Systems;Computer+Science+Engineering+Student;Currently+building+BunkSafe+%F0%9F%9B%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Building+software+that+saves+people+time;Turning+repetitive+work+into+automation;Python+%7C+Java+%7C+C+%7C+JavaScript;Backend+Development+%7C+Developer+Tools;Always+building%2C+always+learning" />
 
 <br>
 
-**Computer Science Engineering undergraduate building practical software that solves real-world workflow problems through automation and thoughtful engineering.**
+**I build software that removes repetitive work from engineering tools to student utilities.**
 
-🇮🇳 Studying in Kerala • 🇦🇪 Raised in Dubai
+Computer Science Engineering Student • 🇮🇳 Kerala, India • 🇦🇪 Raised in Dubai
 
 <br>
 
-<a href="https://www.linkedin.com/in/abhijit-s-kunnel/">
+<a href="https://github.com/ask-io">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhijit-s-kunnel">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:abhijitsmijukunnel@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -26,28 +30,17 @@
 
 # 👨‍💻 About Me
 
-I enjoy building software that removes repetitive work.
+Most of the projects I build start with a simple question:
 
-Most of my projects start with a real-world problem—whether it's simplifying BIM coordination workflows, automating engineering tasks, or making everyday student life easier.
+> **"Can this be automated?"**
 
-I'm currently a **Semester 3 Computer Science Engineering student** focused on strengthening my foundations in **Data Structures & Algorithms**, **Object-Oriented Programming**, **Java**, and **Systems Programming in C**, while continuing to build software with real-world impact.
+I enjoy building software that removes repetitive work, whether it's helping engineers process BIM coordination data or helping students manage attendance.
 
----
-
-# 🚀 Current Focus
-
-```text
-🛠 Building     BunkSafe
-📚 Learning     DSA • Java • Operating Systems • C
-⚡ Interested   Backend Engineering • Automation • Developer Tools
-🎯 Goal         Build software people genuinely enjoy using
-```
+I'm a Computer Science Engineering student who learns best by building real projects. Every project teaches me something new whether it's backend architecture, systems programming, or designing software that's actually useful to people.
 
 ---
 
 # 🚀 Featured Projects
-
-<div align="center">
 
 <table>
 
@@ -58,52 +51,40 @@ I'm currently a **Semester 3 Computer Science Engineering student** focused on s
 <h3 align="center">🛠 BIM Clash Portal</h3>
 
 <p align="center">
-Automated engineering coordination platform that transforms BIM clash detection matrices into filtered, colour-coded, multi-sheet priority reports.
+A web application that transforms raw BIM clash detection matrices into organised, colour-coded Excel reports, saving engineers hours of repetitive Excel work.
 </p>
 
 ---
 
-### ✨ Engineering Highlights
+### 💡 Why I built it
 
-- Replaced a **hardcoded 71×71 matrix boundary** with a **dynamic boundary-detection algorithm**, allowing spreadsheets of arbitrary size.
-- Built an **async upload & parsing pipeline** that routes backend validation errors directly into the UI instead of failing silently.
-- Generates **filtered, colour-coded, multi-sheet Excel reports** for faster engineering coordination.
-- Designed around real BIM workflows to eliminate repetitive manual processing.
+I built BIM Clash Portal after watching my dad, a structural engineer and BIM lead, spend hours manually sorting clash detection reports every time project models were merged.
 
-### ⚙️ Stack
+It wasn't an engineering problem, it was an Excel problem.
 
-<p>
+I wanted to automate that workflow so engineers could spend more time coordinating clashes instead of cleaning spreadsheets.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+### ⚡ Engineering Challenges
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+- Built a parser that automatically detects the boundaries of clash matrices instead of relying on fixed spreadsheet dimensions.
+- Different projects export different matrix sizes, so the parser dynamically adapts to each file at runtime.
+- Used custom HTTP response headers to send summary statistics directly to the frontend while generating downloadable Excel reports.
+- Automatically produces filtered, colour-coded, multi-sheet reports grouped by priority.
 
-<img src="https://img.shields.io/badge/openpyxl-ffffff?style=flat-square"/>
+### ⚙️ Tech
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-
-</p>
+Python • FastAPI • openpyxl • JavaScript • HTML • CSS
 
 <br>
 
 <p align="center">
 
 <a href="https://clash-portal.onrender.com">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-00D4FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Live%20Demo-00D4FF?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/ask-io/clash-portal">
-<img src="https://img.shields.io/github/v/release/ask-io/clash-portal?style=for-the-badge&label=Latest%20Release&color=00D4FF"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/ask-io/clash-portal">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -115,45 +96,40 @@ Automated engineering coordination platform that transforms BIM clash detection 
 <h3 align="center">🛡 BunkSafe</h3>
 
 <p align="center">
-Progressive Web App that calculates exactly when students can safely skip or attend classes to achieve their target attendance percentage.
+A Progressive Web App that tells students exactly how many classes they can skip or need to attend to stay above their attendance requirement.
 </p>
 
 ---
 
-### ✨ Project Highlights
+### 💡 Why I built it
 
-- Started as a **native Android application in Kotlin** (`com.abhijit.bunksafe`).
-- Rebuilt as a **cross-platform Progressive Web App** for wider accessibility.
-- Calculates the **exact number of classes** to attend or skip.
-- Swipeable subject cards for fast navigation.
-- Guided onboarding flow for first-time users.
-- Colour-coded attendance indicators.
-- Offline-first using Browser LocalStorage.
+Like most students, I found myself repeatedly calculating attendance before deciding whether I could skip a class.
 
-### ⚙️ Stack
+The first version was a native Android app written in Kotlin, but asking people to install an APK created unnecessary friction and excluded iPhone users.
 
-<p>
+So I rebuilt it as a Progressive Web App that works instantly on any device.
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+### ⚡ Engineering Challenges
 
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+- Built an attendance calculation engine that continuously updates safe bunks and recovery classes.
+- Reworked the application from a native Android app into an offline-first Progressive Web App.
+- Used Service Workers and LocalStorage so the app works even without an internet connection.
+- Designed the interface around quick decisions, making most calculations available within a couple of taps.
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+### ⚙️ Tech
 
-<img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square"/>
-
-</p>
+JavaScript • Tailwind CSS • HTML • PWA APIs
 
 <br>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Status-Active%20Development-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Active%20Development-orange?style=for-the-badge"/>
 
 <br><br>
 
 <a href="https://github.com/ask-io/BunkSafe">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -164,8 +140,6 @@ Progressive Web App that calculates exactly when students can safely skip or att
 
 </table>
 
-</div>
-
 ---
 
 # 💻 Tech Stack
@@ -174,19 +148,13 @@ Progressive Web App that calculates exactly when students can safely skip or att
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,java,javascript,kotlin&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,kotlin&theme=dark"/>
 
 <br><br>
 
-### Backend & Web
+### Frameworks & Tools
 
-<img src="https://skillicons.dev/icons?i=fastapi,html,css,tailwind,bash&theme=dark"/>
-
-<br><br>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,linux,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=fastapi,tailwind,html,css,bash,git,github,linux,vscode&theme=dark"/>
 
 <br><br>
 
@@ -204,33 +172,25 @@ Progressive Web App that calculates exactly when students can safely skip or att
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ask-io&theme=github-dark&hide_border=true"/>
 
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
+<br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ask-io/ask-io/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ask-io/ask-io/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ask-io/ask-io/output/github-snake-dark.svg" width="100%" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ask-io/ask-io/output/github-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ask-io/ask-io/output/github-snake.svg">
+<img src="https://raw.githubusercontent.com/ask-io/ask-io/output/github-snake-dark.svg">
 </picture>
 
 </div>
 
 ---
 
-# 📫 Let's Connect
-
 <div align="center">
 
-<a href="https://github.com/ask-io">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+### Thanks for stopping by!
 
-<a href="https://www.linkedin.com/in/abhijit-s-kunnel/">
+If you have feedback, an interesting project, or just want to chat, feel free to connect.
+
+<a href="https://www.linkedin.com/in/abhijit-s-kunnel">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -238,13 +198,7 @@ Progressive Web App that calculates exactly when students can safely skip or att
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-<div align="center">
-
-> **"Great software isn't about writing more code—it's about removing more friction."**
+<br><br>
 
 ![](https://komarev.com/ghpvc/?username=ask-io&style=flat-square&color=00D4FF&label=Profile+Views)
 
