@@ -96,37 +96,38 @@ Python • FastAPI • openpyxl • JavaScript • HTML • CSS
 <h3 align="center">🛡 BunkSafe</h3>
 
 <p align="center">
-A Progressive Web App that tells students exactly how many classes they can skip or need to attend to stay above their attendance requirement.
+A retro 8-bit themed Progressive Web App that turns raw attendance percentages into actionable safe bunk and recovery calculations.
 </p>
 
 ---
 
 ### 💡 Why I built it
 
-Like most students, I found myself repeatedly calculating attendance before deciding whether I could skip a class.
+Like most students, I found myself repeatedly doing stressful mental math before deciding whether I could skip a class.
 
-The first version was a native Android app written in Kotlin, but asking people to install an APK created unnecessary friction and excluded iPhone users.
+The first version was a native Android app in Kotlin, but asking users to download APKs created unnecessary friction and locked out iOS users entirely.
 
-So I rebuilt it as a Progressive Web App that works instantly on any device.
+I scrapped it and rebuilt it from scratch as an offline-first PWA with an 8-bit arcade aesthetic, installable straight from the browser on any device.
 
 ### ⚡ Engineering Challenges
 
-- Built an attendance calculation engine that continuously updates safe bunks and recovery classes.
-- Reworked the application from a native Android app into an offline-first Progressive Web App.
-- Used Service Workers and LocalStorage so the app works even without an internet connection.
-- Designed the interface around quick decisions, making most calculations available within a couple of taps.
+- Engineered dynamic attendance math that calculates safe bunks or required consecutive recovery classes in real time.
+- Migrated architecture from native Android (Kotlin) to a build-step-free Vanilla Web Stack.
+- Implemented Service Workers and Web App Manifest for native-like offline caching and home screen installation.
+- Utilised browser LocalStorage for instant persistence with zero external servers and complete client-side privacy.
+- Crafted a responsive, retro pixel-art interface using pure custom CSS.
 
 ### ⚙️ Tech
 
-JavaScript • Tailwind CSS • HTML • PWA APIs
+JavaScript • Custom Pixel CSS • HTML5 • Service Workers • Web App Manifest
 
 <br>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Active%20Development-orange?style=for-the-badge"/>
-
-<br><br>
+<a href="https://ask-io.github.io/BunkSafe/">
+<img src="https://img.shields.io/badge/Live%20Demo-00D4FF?style=for-the-badge"/>
+</a>
 
 <a href="https://github.com/ask-io/BunkSafe">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
