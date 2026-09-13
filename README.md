@@ -2,11 +2,11 @@
 
 # Hi, I'm Abhijit S Kunnel 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Building+software+that+saves+people+time;Turning+repetitive+work+into+automation;Python+%7C+Java+%7C+C+%7C+JavaScript;Backend+Development+%7C+Developer+Tools;Always+building%2C+always+learning" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Building+software+that+removes+friction;Developer+Tools+%7C+Automation+%7C+Systems;Python+%7C+Java+%7C+C+%7C+Kotlin;Always+building%2C+always+learning" />
 
 <br>
 
-**I build software that removes repetitive work from engineering tools to student utilities.**
+**I build software that removes friction: from workflow automation and developer tools to low-level networking systems.**
 
 Computer Science Engineering Student • 🇮🇳 Kerala, India • 🇦🇪 Raised in Dubai
 
@@ -20,7 +20,7 @@ Computer Science Engineering Student • 🇮🇳 Kerala, India • 🇦🇪 Rai
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:abhijitsmijukunnel@gmail.com">
+<a href="mailto:abhijit.uni.29@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -30,13 +30,15 @@ Computer Science Engineering Student • 🇮🇳 Kerala, India • 🇦🇪 Rai
 
 # 👨‍💻 About Me
 
-Most of the projects I build start with a simple question:
+Most of the software I build starts with a simple question:
 
-> **"Can this be automated?"**
+> **"Can this be engineered to be faster, cleaner, or automated entirely?"**
 
-I enjoy building software that removes repetitive work, whether it's helping engineers process BIM coordination data or helping students manage attendance.
+I focus on two complementary spaces:
+- **Developer Tools & Automation:** Designing systems that eliminate tedious, repetitive manual workflows, whether that involves parsing complex BIM coordination matrices or calculating academic thresholds client-side.
+- **Systems & Networking:** Working close to the wire, handling low-level socket programming, UDP multicast protocols, and concurrent architectures to connect devices seamlessly without cloud intermediaries.
 
-I'm a Computer Science Engineering student who learns best by building real projects. Every project teaches me something new whether it's backend architecture, systems programming, or designing software that's actually useful to people.
+I'm a Computer Science Engineering student who learns best by building concrete prototypes, diagnosing networking bottlenecks, and shipping tools that are genuinely useful.
 
 ---
 
@@ -70,7 +72,7 @@ I wanted to automate that workflow so engineers could spend more time coordinati
 - Different projects export different matrix sizes, so the parser dynamically adapts to each file at runtime.
 - Used custom HTTP response headers to send summary statistics directly to the frontend while generating downloadable Excel reports.
 - Automatically produces filtered, colour-coded, multi-sheet reports grouped by priority.
-
+<br><br><br>
 ### ⚙️ Tech
 
 Python • FastAPI • openpyxl • JavaScript • HTML • CSS
@@ -139,6 +141,58 @@ JavaScript • Custom Pixel CSS • HTML5 • Service Workers • Web App Manife
 
 </tr>
 
+<tr>
+
+<td colspan="2" valign="top">
+
+<h3 align="center">📡 LANDrop (Java Network Testbed & Core Engine)</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Under%20Construction-FFA500?style=for-the-badge&logo=statuspage&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coursework-S3%20OOP%20Group%20Project-blueviolet?style=for-the-badge"/>
+</p>
+
+<p align="center">
+A high-performance local network file sharing and peer-to-peer discovery suite built for cross-platform LAN environments with zero cloud dependencies, developed as an Object-Oriented Programming (S3) group project.
+</p>
+
+---
+
+### 💡 Why we're building it
+
+Cloud drives and messaging apps add latency, compress files, and require active internet just to push data across two devices on the same desk. 
+
+As part of our Semester 3 Object-Oriented Programming coursework, our team is building an open-source LAN drop utility from scratch. I spearheaded the core networking and discovery engine to enable instant, zero-configuration local peer detection and direct device-to-device communication across subnets without third-party signaling servers.
+
+### ⚡ Engineering Challenges & Progress
+
+- Engineered an autonomous UDP multicast discovery engine on `230.0.0.1:4446` with dynamic network interface binding to handle multi-adapter setups (Wi-Fi, virtual adapters, LAN).
+- Built thread-safe active peer registries using `ConcurrentHashMap` with periodic background sweeps to gracefully detect device dropouts.
+- Designed an interactive terminal chat testbed and verification benchmark to stress-test real-time bidirectional packets, loopback filtering, and latency.
+- Implemented stealth modes to instantly pause beacons and suppress incoming discovery probes on demand.
+
+### ⚙️ Tech
+
+Java • UDP Multicast • Socket Programming • Concurrency • Object-Oriented Design
+
+<br>
+
+<p align="center">
+
+<a href="https://github.com/rxjith/LANDrop/tree/abhijit">
+<img src="https://img.shields.io/badge/Project%20Branch-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/ask-io/LANDrop-Testbed">
+<img src="https://img.shields.io/badge/Testbed%20Repo-00D4FF?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
 </table>
 
 ---
@@ -159,8 +213,9 @@ JavaScript • Custom Pixel CSS • HTML5 • Service Workers • Web App Manife
 
 <br><br>
 
+<img src="https://img.shields.io/badge/Socket%20Programming-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/UDP%20Multicast-00D4FF?style=for-the-badge&logo=wireshark&logoColor=black"/>
 <img src="https://img.shields.io/badge/Autodesk%20Revit-0696D7?style=for-the-badge&logo=autodeskrevit&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white"/>
 
 </div>
@@ -171,7 +226,7 @@ JavaScript • Custom Pixel CSS • HTML5 • Service Workers • Web App Manife
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ask-io&theme=github-dark&hide_border=true"/>
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=ask-io&theme=github-dark&hide_border=true" />
 
 <br><br>
 
@@ -195,8 +250,8 @@ If you have feedback, an interesting project, or just want to chat, feel free to
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:abhijitsmijukunnel@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:abhijit.uni.29@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <br><br>
