@@ -63,7 +63,7 @@ Outside of software architecture, I maintain and ride my motorcycle through the 
 
 | Project | What It Does | Stack |
 |---|---|---|
-| 📡 [LAN-Drop](https://github.com/ask-io/LANDrop-Testbed) | Serverless, zero-config P2P file transfer client with 64 KB buffered TCP streams, UDP multicast discovery, polar radar UI, and stealth Ghost Mode | Java, Sockets, UDP Multicast, Swing (Graphics2D / FlatLaf), SQLite |
+| 📡 [LAN-Drop](https://github.com/Metysmos/LANDrop) | Serverless, zero-config P2P file transfer client with 64 KB buffered TCP streams, UDP multicast discovery, polar radar UI, and stealth Ghost Mode | Java, Sockets, UDP Multicast, Swing (Graphics2D / FlatLaf), SQLite |
 | 🛠️ [BIM Clash Portal](https://clash-portal.onrender.com) | Automation platform parsing dynamic Revit clash matrices into priority-grouped, styled Excel reports, cutting hours of manual BIM coordination | Python, FastAPI, openpyxl, JavaScript, HTML/CSS |
 | 🛡️ [BunkSafe](https://ask-io.github.io/BunkSafe/) | Retro 8-bit offline-first PWA calculating student attendance safe-margins and recovery classes in real time with client-side persistence | JavaScript, Service Workers, Web App Manifest, Pixel CSS |
 
