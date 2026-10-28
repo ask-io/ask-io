@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abhijit+S+Kunnel+%F0%9F%91%8B;CSE+%40+SJCET+Palai;Developer+Tools+%7C+Automation+%7C+Systems;Engineering+software+that+removes+friction" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=10B981&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abhijit+S+Kunnel+%F0%9F%91%8B;CSE+%40+SJCET+Palai;Developer+Tools+%7C+Automation+%7C+Systems;Engineering+software+that+removes+friction" alt="Typing SVG" />
 
 ### if it takes more than three clicks, I’m probably automating it 🤖
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ask-io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=gnubash&logoColor=white)](https://ask-io.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijit-s-kunnel)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijit.uni.29@gmail.com)
 
@@ -43,6 +43,8 @@ Outside of software architecture, I maintain and ride my motorcycle through the 
 
 #### Systems, Frameworks & Tooling
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -51,7 +53,7 @@ Outside of software architecture, I maintain and ride my motorcycle through the 
 <br>
 
 ![Socket Programming](https://img.shields.io/badge/Socket%20Programming-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![UDP Multicast](https://img.shields.io/badge/UDP%20Multicast-00D4FF?style=for-the-badge&logo=wireshark&logoColor=black)
+![UDP Multicast](https://img.shields.io/badge/UDP%20Multicast-10B981?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Autodesk Revit](https://img.shields.io/badge/Autodesk%20Revit-0696D7?style=for-the-badge&logo=autodeskrevit&logoColor=white)
 ![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
 
@@ -63,6 +65,7 @@ Outside of software architecture, I maintain and ride my motorcycle through the 
 
 | Project | What It Does | Stack |
 |---|---|---|
+| ⚡ [Interactive Portfolio](https://ask-io.github.io/portfolio/) | Systems builder portfolio featuring a real-time reactive canvas lattice with spring dynamics, shockwave physics, and automated GitHub Actions CI/CD | React, Vite, Tailwind CSS, Canvas API, GitHub Actions |
 | 📡 [LAN-Drop](https://github.com/Metysmos/LANDrop) | Serverless, zero-config P2P file transfer client with 64 KB buffered TCP streams, UDP multicast discovery, polar radar UI, and stealth Ghost Mode | Java, Sockets, UDP Multicast, Swing (Graphics2D / FlatLaf), SQLite |
 | 🛠️ [BIM Clash Portal](https://clash-portal.onrender.com) | Automation platform parsing dynamic Revit clash matrices into priority-grouped, styled Excel reports, cutting hours of manual BIM coordination | Python, FastAPI, openpyxl, JavaScript, HTML/CSS |
 | 🛡️ [BunkSafe](https://ask-io.github.io/BunkSafe/) | Retro 8-bit offline-first PWA calculating student attendance safe-margins and recovery classes in real time with client-side persistence | JavaScript, Service Workers, Web App Manifest, Pixel CSS |
@@ -76,6 +79,10 @@ Outside of software architecture, I maintain and ride my motorcycle through the 
 <div align="center">
 
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=ask-io&theme=github-dark&hide_border=true" />
+
+<br><br>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ask-io&layout=compact&langs_count=8&theme=tokyonight&bg_color=020617&title_color=10B981&text_color=94A3B8&border_color=1E293B&hide_border=false" alt="Top Languages Used" />
 
 <br><br>
 
@@ -95,11 +102,12 @@ Outside of software architecture, I maintain and ride my motorcycle through the 
 
 If you have feedback, an interesting systems problem, or just want to connect:
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=gnubash&logoColor=white)](https://ask-io.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijit-s-kunnel)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijit.uni.29@gmail.com)
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=ask-io&style=flat-square&color=00D4FF&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=ask-io&style=flat-square&color=10B981&label=Profile+Views)
 
 </div>
